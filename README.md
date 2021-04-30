@@ -1,8 +1,6 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/sumeshp99/portfoliomaybe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a student currently pursuing B.tech in Computer Science from Guru Gobind Singh Indraprastha University.I like to learn new things and try various things.This page is also my first attempt at Github pages so I tried to make a portfolio like website for a good experience as well as for a place to showcase some of my projects.
 
 ### Markdown
 
