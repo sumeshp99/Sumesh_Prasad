@@ -1,10 +1,10 @@
-## About me
+# About me
 
 I am a student currently pursuing B.tech in Computer Science from Guru Gobind Singh Indraprastha University.I like to learn new things and try various things.This page is also my first attempt at Github pages ,so I tried to make a portfolio like website for a good experience as well as to showcase some of my projects.
 
-### Projects I have worked on
+## Projects I have worked on
 
-Music Genre Classification
+### Music Genre Classification
 
 ```markdown
 Syntax highlighted code block
