@@ -4,7 +4,7 @@ I am a student currently pursuing B.tech in Computer Science from Guru Gobind Si
 
 ### Projects I have worked on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Music Genre Classification
 
 ```markdown
 Syntax highlighted code block
