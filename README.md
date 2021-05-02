@@ -10,6 +10,10 @@ I am a student currently pursuing B.tech in Computer Science from Guru Gobind Si
 
 It was my first deep learning project.Here I tried to train a neural network to classify genre of music using audio of music as input.Kind of fun as well as learned a little about audio processing.Learned spectrograms and other things.
 
+### Pneumonia prediction
+
+It was also a deep learning project.By this time it had been more than 5 months since i have used deep learning.So I made this to revisit some topics.Think of it as revision for myself.
+
 ```markdown
 Syntax highlighted code block
 
