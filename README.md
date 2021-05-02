@@ -5,8 +5,8 @@ I am a student currently pursuing B.tech in Computer Science from Guru Gobind Si
 ## Projects I have worked on
 
 ### Music Genre Classification
-![Image](https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-95.png-819004/dataset-card.png =100x100)
-
+![Image](https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-95.png-819004/dataset-card.png)
+<img src="https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-95.png-819004/dataset-card.png" alt="drawing" width="100"/>
 It was my first deep learning project.Here I tried to train a neural network to classify genre of music using audio of music as input.Kind of fun as well as learned a little about audio processing.Learned spectrograms and other things.
 
 ```markdown
