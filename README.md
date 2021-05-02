@@ -16,6 +16,10 @@ It was my first deep learning project.Here I tried to train a neural network to 
 
 It was also a deep learning project.By this time it had been more than 5 months since i have used deep learning.So I made this to revisit some topics.Think of it as revision for myself.
 
+### Pneumonia prediction application
+
+This was an attemt to make a simple software with a UI topredict pneumonia.Model from previous application was used for prediction.UI was made using flutter(just a simple one) where user can select and upload images.Backend was made using Flask.I have used Flask previously in my internship but it had been 1 year since then so I made this for revision.Works pretty ok.
+
 ```markdown
 Syntax highlighted code block
 
