@@ -12,6 +12,8 @@ It was my first deep learning project.Here I tried to train a neural network to 
 
 ### Pneumonia prediction
 
+<img src="xray_image.jpg" alt="drawing" width="200"/>
+
 It was also a deep learning project.By this time it had been more than 5 months since i have used deep learning.So I made this to revisit some topics.Think of it as revision for myself.
 
 ```markdown
