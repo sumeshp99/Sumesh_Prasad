@@ -20,7 +20,7 @@ It was also a deep learning project.By this time it had been more than 5 months 
 
 <img src="pneu_pred_app_image.png" alt="drawing" width="200"/>
 
-This was an attemt to make a simple software with a UI to predict pneumonia.Model from previous application was used for prediction.UI was made using flutter(just a simple one) where user can select and upload images.It was a good project to learn dart as well as flutter.Backend was made using Flask.I have used Flask previously in my internship but it had been 1 year since then so I made this for revision.Works pretty ok.
+This was an attempt to make a simple software with a UI to predict pneumonia.Model from previous application was used for prediction.UI was made using flutter(just a simple one) where user can select and upload images.It was a good project to learn dart as well as flutter.Backend was made using Flask.I have used Flask previously in my internship but it had been 1 year since then so I made this for revision.Works pretty ok.
 
 ```markdown
 Syntax highlighted code block
