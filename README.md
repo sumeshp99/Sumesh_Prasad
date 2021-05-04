@@ -2,6 +2,10 @@
 
 I am a student currently pursuing B.tech in Computer Science from Guru Gobind Singh Indraprastha University.I like to learn new things and try various things.This page is also my first attempt at Github pages ,so I tried to make a portfolio like website for a good experience as well as to showcase some of my projects.
 
+## Experience
+
+I don't have any experience of job since I am a student but I have done internship from All India Institute of Medical Sciences(AIIMS,Delhi) for 2 months where I learned Flask,HTML,Javascript,Jquery etc. and helped them in making an admin system for biometric system used there.I also had a little bit experience with raspberry pi which was used as the biometric machine.It was my first experience to see how people work in offices/organizations.Was a good experience.
+
 ## Projects I have worked on
 
 ### Music Genre Classification
