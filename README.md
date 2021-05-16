@@ -26,24 +26,6 @@ It was also a deep learning project.By this time it had been more than 5 months 
 
 This was an attempt to make a simple software with a UI to predict pneumonia.Model from previous application was used for prediction.UI was made using flutter(just a simple one) where user can select and upload images.It was a good project to learn dart as well as flutter.Backend was made using Flask.I have used Flask previously in my internship but it had been 1 year since then so I made this for revisit topics on flask.Works pretty ok.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
