@@ -8,7 +8,7 @@ I don't have any experience of job since I am a student but I have done internsh
 
 ## Projects I have worked on
 
-### Music Genre Classification
+### [Music Genre Classification](https://sumeshp99.github.io/music-genre-classification-with-cnn/)
 
 <img src="music_photo.png" alt="drawing" width="200"/>
 
