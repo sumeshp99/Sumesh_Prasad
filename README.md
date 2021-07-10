@@ -25,13 +25,3 @@ It was also a deep learning project.By this time it had been more than 5 months 
 <img src="pneu_pred_app_image.png" alt="drawing" width="200"/>
 
 This was an attempt to make a simple software with a UI to predict pneumonia.Model from previous application was used for prediction.UI was made using flutter(just a simple one) where user can select and upload images.It was a good project to learn dart as well as flutter.Backend was made using Flask.I have used Flask previously in my internship but it had been 1 year since then so I made this for revisit topics on flask.Works pretty ok.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumeshp99/portfoliomaybe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
